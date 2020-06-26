@@ -6,9 +6,24 @@
   education1: BSc, Shanghai University, China
 
 - name: Xutan Peng
-  photo: ruizhe.png
+  photo: xutan.png
   info: PhD Candidate
   email: x.peng the_usual_sign sheffield.ac.uk
   number_educ: 1
   education1: BSc, Beihang University, China
 
+- name: Shun Wang
+  photo: ruizhe.png
+  info: PhD Candidate
+  email: w2310751769 the_usual_sign gmail.com
+  number_educ: 1
+  education1: MSc, University of Aberdeen, China
+
+- name: Guanyi Chen
+  photo: guanyi.jpeg
+  info: PhD Candidate at Utrecht University
+  email: g.chen the_usual_sign uu.nl
+  number_educ: 3
+  education1: Msc, University of Edinburgh, UK
+  education2: BEng, Queen Mary University of London, UK
+  education3: BBA, Beijing University of Posts and Telecommunication, China
