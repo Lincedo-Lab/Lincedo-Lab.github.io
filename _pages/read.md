@@ -27,7 +27,7 @@ The meeting takes place weekly during term for one hour usually on Friday, 14:00
 {:class="table table-striped table-bordered"}
 |**Date**|**Moderator**|**Topic**|
 |:-----------|:-----------:|:-----------|
-|**Jun. 26th, 2020** | Shun Wang | *Multi-task Learning for Metaphor Detection with Graph Convolutional Neural Networks and*<br/>*Word Sense Disambiguation*|
+|**Jun. 26th, 2020** | Shun Wang | [*Multi-task Learning for Metaphor Detection with Graph Convolutional Neural Networks and*<br/>*Word Sense Disambiguation*](https://aaai.org/ojs/index.php/AAAI/article/view/6326)|
 |**Jun. 19th, 2020** | Xutan Peng | [*Citation Text Generation*](https://arxiv.org/abs/2002.00317) <br /> [TLDR: Extreme Summarization of Scientific Documents](https://arxiv.org/abs/2004.15011) |
 |**Jun. 13th, 2020**| Chenghua Lin |[Comprehension Driven Document Planning in Natural Language Generation Systems](https://aura.abdn.ac.uk/bitstream/handle/2164/11420/Comprehension_Driven_Document_Planning_in_Natural_Language.pdf?sequence=1)|
 |**May 15th, 2020** | Xutan Peng | EMNLP Mock Review Session |
