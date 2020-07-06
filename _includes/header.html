@@ -2,8 +2,8 @@
 	
  <style type="text/css">
 .customised-navbar-brand {
-    padding: 0px 0px 0px 5px;
-    height: 3.2em;
+    padding: 3px 0px 0px 5px;
+    height: 3.5em;
 }
 .customised-navbar-brand img {
     height: 3em;
@@ -15,12 +15,16 @@
     float: left;
     color: #555;
 }
-.customised-navbar-brand>div:first-child {
-    font-size: 1.5em;
+.customised-navbar-brand>div>div:first-child {
+    font-size: 1.25em;
 }
-.customised-navbar-brand>div:last-child {
-    font-size: 1em;
+.customised-navbar-brand>div>div:last-child {
     padding-top: 0.2em;
+}
+@media (min-width: 768px) {
+.customised-navbar-brand>div {
+    display: none;
+}
 }
  </style> 
 	
@@ -38,7 +42,7 @@
 	    <div><div>Lincedo Lab</div><div>University of Sheffield</div></div></a>
 	</div>
 	<div class="collapse navbar-collapse" id="navbar-collapse-1">
-	  <ul class="nav navbar-nav navbar-right">
+	  <ul class="nav navbar-nav navbar-right" style="padding-top: 1.4em">
 		<li><a href="{{ site.url }}{{ site.baseurl }}/">Home</a></li>
 		<li><a href="{{ site.url }}{{ site.baseurl }}/team">Team</a></li>
 		<li><a href="{{ site.url }}{{ site.baseurl }}/publications">Publications</a></li>
