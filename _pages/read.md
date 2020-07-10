@@ -20,7 +20,8 @@ The meeting takes place weekly during term for one hour usually on Friday, 14:00
 |**Date**|**Moderator**|**Topic**|
 | ------------- |:-------------:|:-----|
 |:-----------|:-----------:|:-----------|
-|**July. 3rd, 2020** | Xutan Peng | [*Cross-Lingual Natural Language Generation via Pre-Training*](https://aaai.org/Papers/AAAI/2020GB/AAAI-ChiZ.7682.pdf) |
+|**July. 17th, 2020** | Guanyi Chen | Tutorial: Dialogue Systems |
+
 
 ## Past Meetings
 
@@ -35,3 +36,5 @@ The meeting takes place weekly during term for one hour usually on Friday, 14:00
 |**May 1th, 2020** | Xutan Peng | EMNLP Mock Review Session |
 |**May 24th, 2020** | Rui Mao | EMNLP Mock Review Session |
 |**May 17th, 2020** | Shun Wang | [*Unsupervised Compositionality Prediction of Nominal Compounds*](https://www.aclweb.org/anthology/J19-1001.pdf) |
+|**July. 3rd, 2020** | Xutan Peng | [*Cross-Lingual Natural Language Generation via Pre-Training*](https://aaai.org/Papers/AAAI/2020GB/AAAI-ChiZ.7682.pdf) |
+|**July. 10th, 2020** | - | ACL Recap |

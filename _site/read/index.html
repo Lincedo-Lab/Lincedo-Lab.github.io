@@ -19,6 +19,35 @@
   <body>
 
     <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+	
+ <style type="text/css">
+.customised-navbar-brand {
+    padding: 3px 0px 0px 5px;
+    height: 3.5em;
+}
+.customised-navbar-brand img {
+    height: 3em;
+    margin: 5px;
+    float: left;
+}
+.customised-navbar-brand>div {
+    margin: 8px 5px 5px 5px;
+    float: left;
+    color: #555;
+}
+.customised-navbar-brand>div>div:first-child {
+    font-size: 1.25em;
+}
+.customised-navbar-brand>div>div:last-child {
+    padding-top: 0.2em;
+}
+@media (max-width: 360px) {
+.customised-navbar-brand>div {
+    display: none;
+}
+}
+ </style> 
+	
   <div class="container-fluid">
 	<div class="navbar-header">
 	  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
@@ -28,10 +57,12 @@
 		<span class="icon-bar"></span>
 	  </button>
 	
-    <a class="navbar-brand" href="http://localhost:4000/">Lincedo Lab @ University of Sheffield</a>
+    <a class="navbar-brand customised-navbar-brand" href="http://localhost:4000/">
+	    <img src="http://localhost:4000/images/Lincedo-lab.png" />
+	    <div><div>Lincedo Lab</div><div>University of Sheffield</div></div></a>
 	</div>
 	<div class="collapse navbar-collapse" id="navbar-collapse-1">
-	  <ul class="nav navbar-nav navbar-right">
+	  <ul class="nav navbar-nav navbar-right" style="padding-top: 1.4em">
 		<li><a href="http://localhost:4000/">Home</a></li>
 		<li><a href="http://localhost:4000/team">Team</a></li>
 		<li><a href="http://localhost:4000/publications">Publications</a></li>
@@ -62,9 +93,9 @@
   </thead>
   <tbody>
     <tr>
-      <td><strong>July. 3rd, 2020</strong></td>
-      <td style="text-align: center">Xutan Peng</td>
-      <td style="text-align: left"><a href="https://aaai.org/Papers/AAAI/2020GB/AAAI-ChiZ.7682.pdf"><em>Cross-Lingual Natural Language Generation via Pre-Training</em></a></td>
+      <td><strong>July. 17th, 2020</strong></td>
+      <td style="text-align: center">Guanyi Chen</td>
+      <td style="text-align: left">Tutorial: Dialogue Systems</td>
     </tr>
   </tbody>
 </table>
@@ -120,6 +151,16 @@
       <td style="text-align: center">Shun Wang</td>
       <td style="text-align: left"><a href="https://www.aclweb.org/anthology/J19-1001.pdf"><em>Unsupervised Compositionality Prediction of Nominal Compounds</em></a></td>
     </tr>
+    <tr>
+      <td style="text-align: left"><strong>July. 3rd, 2020</strong></td>
+      <td style="text-align: center">Xutan Peng</td>
+      <td style="text-align: left"><a href="https://aaai.org/Papers/AAAI/2020GB/AAAI-ChiZ.7682.pdf"><em>Cross-Lingual Natural Language Generation via Pre-Training</em></a></td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><strong>July. 10th, 2020</strong></td>
+      <td style="text-align: center">-</td>
+      <td style="text-align: left">ACL Recap</td>
+    </tr>
   </tbody>
 </table>
 
@@ -132,15 +173,12 @@
   <div class="panel-footer">
 	<div class="container-fluid">
 	  <div class="row">
-		<div class="col-sm-2">
-			<p><img src="http://localhost:4000/images/Lincedo-lab.png" style="width:136px;height:99px;" /> </p>
-		</div>
 		<div class="col-sm-4">
 		  <p>We are part of the <a href="https://www.sheffield.ac.uk/dcs/research/groups/natural-language-processing">larger Natural Language Processing Group</a>
 			 at <a href="https://www.sheffield.ac.uk/">University of Sheffield</a>.</p>        		  
             
 		</div>
-		<div class="col-sm-2">
+		<div class="col-sm-4">
 		</div>
 		<div class="col-sm-4">
 		  Contact:<br />
