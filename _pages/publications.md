@@ -27,10 +27,9 @@ permalink: /publications/
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
-  <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
-<!--   <p>{{ publi.display }}</p> -->
-  <p><strong><a href="{{ publi.url }}">{{ publi.display }}</a></strong></p>
+  <p><a href="{{ publi.url }}">{{ publi.display }}</a></p>
+  <p>{{ publi.description }}</p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
  </div>
@@ -61,3 +60,5 @@ permalink: /publications/
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.url }}">{{ publi.display }}</a><br />
 
 {% endfor %}
+
+<p> &nbsp; </p>

@@ -1,8 +1,8 @@
 - title: "Latent Space Factorisation and Manipulation via Matrix Subspace Projection"
   image: xiao_icml_2020.jpeg
-  description:
+  description: In this paper, we propose a simple, generic architecture called Timestep-Wise Regularisation VAE (TWR-VAE), which can effectively avoid posterior collapse and can be applied to any RNN-based VAE models. The effectiveness and versatility of our model are demonstrated in different tasks, including language modelling and dialogue response generation.
   authors: Li X., Lin C., Li R., Wang C., and Guerin F.
-  link:
+  link: 
   url: https://arxiv.org/pdf/1907.12385.pdf
   display: ICML 2020
   highlight: 1
@@ -10,7 +10,7 @@
 
 - title: "DGST: a Dual-Generator Network for Text Style Transfer"
   image: xiao_emnlp_2020.jpg
-  description:
+  description: We propose DGST, a novel and simple Dual-Generator network architecture for text Style Transfer. Our model employs two generators only, and  does not rely on any discriminators or parallel corpus for training. Both quantitative and qualitative experiments on the Yelp and IMDb datasets show that our model gives competitive performance compared to several strong baselines with more complicated architecture designs.
   authors: Li X., Chen G., Lin C. and Li R.
   link:
   url: https://arxiv.org/pdf/2010.14557.pdf

@@ -21,9 +21,8 @@ permalink: /team/
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
+  <h4><a href="{{ member.website }}">{{ member.name }}</a></h4>
   <i>{{ member.info }}</i><br>
-  <a href="{{ member.website }}">Personal website</a>
   <ul style="overflow: hidden">
   
   </ul>
@@ -55,9 +54,8 @@ permalink: /team/
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
+  <h4><a href="{{ member.website }}">{{ member.name }}</a></h4>
   <i>{{ member.info }}</i><br>
-  <a href="{{ member.website }}">Personal website</a>
   <ul style="overflow: hidden">
 
   </ul>
