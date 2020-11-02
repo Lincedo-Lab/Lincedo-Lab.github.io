@@ -23,16 +23,15 @@ permalink: /team/
   
   {% if member.name == "Chenghua Lin" %}
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <a href="https://chenghualin.wordpress.com/">
-    <h4>{{ member.name }}</h4>
-    </a>
+  <h4>{{ member.name }}</h4><br>
+  <a href="https://chenghualin.wordpress.com/"> Website</a><br>
   <i>{{ member.info }}</i>
   <ul style="overflow: hidden">
   {% endif %}
   
   {% if member.name == "Xiao Li" %}
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-   <h4>{{ member.name }}</h4>
+  <h4>{{ member.name }}</h4>
   <i>{{ member.info }}</i>
   <ul style="overflow: hidden">
   {% endif %}
