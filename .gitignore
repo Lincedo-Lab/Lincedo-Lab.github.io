@@ -1,0 +1,4 @@
+*checkpoint.py
+.vector_cache
+.DS_Store
+*.pyc
