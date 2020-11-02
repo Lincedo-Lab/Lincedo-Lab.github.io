@@ -28,7 +28,9 @@ permalink: /team/
     </a>
   <i>{{ member.info }}</i>
   <ul style="overflow: hidden">
-  {% elif member.name == "Xiao" %}
+  {% endif %}
+  
+  {% if member.name == "Xiao" %}
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
    <h4>{{ member.name }}</h4>
   <i>{{ member.info }}</i>
