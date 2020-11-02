@@ -29,8 +29,8 @@ permalink: /publications/
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
-  <p>{{ publi.display }}</p>
-  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
+<!--   <p>{{ publi.display }}</p> -->
+  <p><strong><a href="{{ publi.url }}">{{ publi.display }}</a></strong></p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
  </div>
@@ -58,6 +58,6 @@ permalink: /publications/
 {% for publi in site.data.publist %}
 
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a><br /><i>{{ publi.display}}</i>
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.url }}">{{ publi.display }}</a><br />
 
 {% endfor %}
