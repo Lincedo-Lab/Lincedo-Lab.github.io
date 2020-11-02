@@ -1,10 +1,19 @@
 - title: "Latent Space Factorisation and Manipulation via Matrix Subspace Projection"
   image: xiao_icml_2020.jpeg
   description:
-    TBD
   authors: Li X., Lin C., Li R., Wang C., and Guerin F.
   link:
-    url: https://arxiv.org/pdf/1907.12385.pdf
-    display: ICML 2020
+  url: https://arxiv.org/pdf/1907.12385.pdf
+  display: ICML 2020
   highlight: 1
+  news2:
+
+- title: "DGST: a Dual-Generator Network for Text Style Transfer"
+  image: xiao_emnlp_2020.jpeg
+  description:
+  authors: Li X., Chen G., Lin C. and Li R.
+  link:
+  url: https://arxiv.org/pdf/2010.14557.pdf
+  display: EMNLP 2020
+  highlight: 2
   news2:
