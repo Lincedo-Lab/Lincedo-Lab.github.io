@@ -20,10 +20,25 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
+  
+  {% if member.name == "Chenghua" %}
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>email: {{ member.email }}</i>
+  <a href="https://chenghualin.wordpress.com/">
+    <h4>{{ member.name }}</h4>
+    </a>
+  <i>{{ member.info }}</i>
   <ul style="overflow: hidden">
+  {%elif member.name == "Xiao" %}
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+   <h4>{{ member.name }}</h4>
+  <i>{{ member.info }}</i>
+  <ul style="overflow: hidden">
+  {% endif %}
+  
+  
+  <!--   
+<i>{{ member.info }}<br>email: {{ member.email }}</i> 
+  
 
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
@@ -54,6 +69,7 @@ permalink: /team/
   <li> {{ member.education4 }} </li>
   <li> {{ member.education5 }} </li>
   {% endif %}
+  -->
 
   </ul>
 </div>
