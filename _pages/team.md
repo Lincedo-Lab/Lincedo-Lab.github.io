@@ -24,8 +24,8 @@ permalink: /team/
   {% if member.name == "Chenghua Lin" %}
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <a href="https://chenghualin.wordpress.com/"> Website</a><br>
-  <i>{{ member.info }}</i>
+  <i>{{ member.info }}</i><br>
+  <a href="https://chenghualin.wordpress.com/">Personal website</a>
   <ul style="overflow: hidden">
   {% endif %}
   
