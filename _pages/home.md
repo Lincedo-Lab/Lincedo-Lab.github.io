@@ -32,7 +32,7 @@ permalink: /
             <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/xiao_emnlp_2020.jpg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/ruizhe_coling_2020.jpeg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/ruizhe_coling_2020.jpg" alt="Slide 3" />
         </div>
 <!--        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/xiao_icml_2020.jpeg" alt="Slide 3" />
