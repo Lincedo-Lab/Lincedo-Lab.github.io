@@ -1,6 +1,6 @@
 - title: "Latent Space Factorisation and Manipulation via Matrix Subspace Projection"
   image: xiao_icml_2020.jpeg
-  description: In this paper, we propose a simple, generic architecture called Timestep-Wise Regularisation VAE (TWR-VAE), which can effectively avoid posterior collapse and can be applied to any RNN-based VAE models. The effectiveness and versatility of our model are demonstrated in different tasks, including language modelling and dialogue response generation.
+  description: We tackle the problem disentangling the latent space of an autoencoder in order to separate labelled attribute information from other characteristic information. This then allows us to change selected attributes while preserving other information. Our method, matrix subspace projection, is much simpler than previous approaches to latent space factorisation, for example not requiring multiple discriminators or a careful weighting among their loss functions. 
   authors: Li X., Lin C., Li R., Wang C., and Guerin F.
   link: 
   url: https://arxiv.org/pdf/1907.12385.pdf
@@ -15,5 +15,15 @@
   link:
   url: https://arxiv.org/pdf/2010.14557.pdf
   display: EMNLP 2020
+  highlight: 1
+  news2:
+  
+- title: "Improving Variational Autoencoder for Text Modelling with Timestep-Wise Regularisation"
+  image: ruizhe_coling_2020.jpg
+  description: In this paper, we propose a simple, generic architecture called Timestep-Wise Regularisation VAE (TWR-VAE), which can effectively avoid posterior collapse and can be applied to any RNN-based VAE models. The effectiveness and versatility of our model are demonstrated in different tasks, including language modelling and dialogue response generation.
+  authors: Li R., Li X., Chen G. and Lin C.
+  link:
+  url: https://arxiv.org/pdf/2011.01136.pdf
+  display: COLING 2020
   highlight: 1
   news2:
