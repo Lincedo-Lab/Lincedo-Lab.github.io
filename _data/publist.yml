@@ -28,6 +28,16 @@
   highlight: 1
   news2:
 
+- title: "Revisiting the linearity in cross-lingual embedding mappings: from a perspective of word analogies"
+  image: 
+  description: 
+  authors: Peng X., Lin C., Stevenson M. and Li C.
+  link:
+  url: https://arxiv.org/pdf/2004.01079.pdf
+  display: arXiv 2020
+  highlight: 0
+  news2:
+
 - title: "End-to-End Sequential Metaphor Identification Inspired by Linguistic Theories"
   image: rui_acl_2019.png
   description: End-to-end training with Deep Neural Networks (DNN) is a currently popular method for metaphor identification. However, standard sequence tagging models do not explicitly take advantage of linguistic theories of metaphor identification. We experiment with two DNN models which are inspired by two human metaphor identification procedures. By testing on three public datasets, we find that our models achieve state-of-the-art performance in end-to-end metaphor identification.
@@ -58,6 +68,27 @@
   highlight: 1
   news2:
 
+
+- title: "QTUNA: A Corpus for Understanding How Speakers Use Quantification"
+  image: 
+  description: 
+  authors: Chen G., van Deemter K., Pagliaro S., Smalbil L. and Lin C.
+  link:
+  url: https://www.aclweb.org/anthology/W19-8616.pdf
+  display: INLG 2019
+  highlight: 0
+  news2:
+
+- title: "Generating Quantified Descriptions of Abstract Visual Scenes"
+  image: 
+  description: 
+  authors: Chen G., van Deemter K. and Lin C.
+  link:
+  url: https://www.aclweb.org/anthology/W19-8667.pdf
+  display: INLG 2019
+  highlight: 0
+  news2:
+
 - title: "Word Embedding and WordNet Based Metaphor Identification and Interpretation"
   image: rui_acl_2018.png
   description: In this paper, we propose an unsupervised learning method that identifies and interprets metaphors at word-level without any preprocessing, outperforming strong baselines in the metaphor identification task. Our model extends to interpret the identified metaphors, paraphrasing them into their literal counterparts, so that they can be better translated by machines. We evaluated this with two popular translation systems for English to Chinese, showing that our model improved the systems significantly.
@@ -67,3 +98,34 @@
   display: ACL 2018
   highlight: 1
   news2:
+
+- title: "Statistical NLG for Generating the Content and Form of Referring Expressions"
+  image: 
+  description: 
+  authors: Li X., van Deemter K. and Lin C.
+  link:
+  url: https://www.aclweb.org/anthology/W18-6561.pdf
+  display: INLG 2018
+  highlight: 0
+  news2:
+
+- title: "SimpleNLG-ZH: a Linguistic Realisation Engine for Mandarin"
+  image: 
+  description: 
+  authors: Chen G., van Deemter K. and Lin C.
+  link:
+  url: https://www.aclweb.org/anthology/W18-6506.pdf
+  display: INLG 2018
+  highlight: 0
+  news2:
+
+- title: "Modelling Pro-drop with the Rational Speech Acts Model"
+  image: 
+  description: 
+  authors: Chen G., van Deemter K. and Lin C.
+  link:
+  url: https://www.aclweb.org/anthology/W18-6519.pdf
+  display: INLG 2018
+  highlight: 0
+  news2:
+    
