@@ -3,7 +3,7 @@
   description: We tackle the problem disentangling the latent space of an autoencoder in order to separate labelled attribute information from other characteristic information. This then allows us to change selected attributes while preserving other information. Our method, matrix subspace projection, is much simpler than previous approaches to latent space factorisation, for example not requiring multiple discriminators or a careful weighting among their loss functions. 
   authors: Li X., Lin C., Li R., Wang C., and Guerin F.
   link: 
-  url: https://arxiv.org/pdf/1907.12385.pdf
+  url: http://proceedings.mlr.press/v119/li20i/li20i.pdf
   display: ICML 2020
   highlight: 1
   news2:
@@ -13,7 +13,7 @@
   description: We propose DGST, a novel and simple Dual-Generator network architecture for text Style Transfer. Our model employs two generators only, and  does not rely on any discriminators or parallel corpus for training. Both quantitative and qualitative experiments on the Yelp and IMDb datasets show that our model gives competitive performance compared to several strong baselines with more complicated architecture designs.
   authors: Li X., Chen G., Lin C. and Li R.
   link:
-  url: https://arxiv.org/pdf/2010.14557.pdf
+  url: https://www.aclweb.org/anthology/2020.emnlp-main.578.pdf
   display: EMNLP 2020
   highlight: 1
   news2:
@@ -23,7 +23,47 @@
   description: In this paper, we propose a simple, generic architecture called Timestep-Wise Regularisation VAE (TWR-VAE), which can effectively avoid posterior collapse and can be applied to any RNN-based VAE models. The effectiveness and versatility of our model are demonstrated in different tasks, including language modelling and dialogue response generation.
   authors: Li R., Li X., Chen G. and Lin C.
   link:
-  url: https://arxiv.org/pdf/2011.01136.pdf
+  url: https://www.aclweb.org/anthology/2020.coling-main.216.pdf
   display: COLING 2020
+  highlight: 1
+  news2:
+
+- title: "End-to-End Sequential Metaphor Identification Inspired by Linguistic Theories"
+  image: rui_acl_2019.png
+  description: End-to-end training with Deep Neural Networks (DNN) is a currently popular method for metaphor identification. However, standard sequence tagging models do not explicitly take advantage of linguistic theories of metaphor identification. We experiment with two DNN models which are inspired by two human metaphor identification procedures. By testing on three public datasets, we find that our models achieve state-of-the-art performance in end-to-end metaphor identification.
+  authors: Mao R., Lin C. and Guerin F.
+  link:
+  url: https://www.aclweb.org/anthology/P19-1378.pdf
+  display: ACL 2019
+  highlight: 1
+  news2:
+
+- title: "A Dual-Attention Hierarchical Recurrent Neural Network for Dialogue Act Classification"
+  image: ruizhe_conll_2019.png
+  description: Recognising dialogue acts (DA) is important for many natural language processing tasks such as dialogue generation and intention recognition. In this paper, we propose a dual-attention hierarchical recurrent neural network for DA classification. Our model is partially inspired by the observation that conversational utterances are normally associated with both a DA and a topic, where the former captures the social act and the latter describes the subject matter.
+  authors: Li R., Lin C., Collinson M., Li X. and Chen G.
+  link:
+  url: https://www.aclweb.org/anthology/K19-1036.pdf
+  display: CoNLL 2019
+  highlight: 1
+  news2:
+
+- title: "A Stable Variational Autoencoder for Text Modelling"
+  image: ruizhe_inlg_2019.png
+  description: In this paper, we present a new architecture called Full-Sampling-VAE-RNN, which can effectively avoid latent variable collapse. Compared to the general VAE-RNN architectures, we show that our model can achieve much more stable training process and can generate text with significantly better quality.
+  authors: Li R., Li X.,  Lin C, Collinson M. and Mao R.
+  link:
+  url: https://www.aclweb.org/anthology/W19-8673.pdf
+  display: INLG 2019
+  highlight: 1
+  news2:
+
+- title: "Word Embedding and WordNet Based Metaphor Identification and Interpretation"
+  image: rui_acl_2018.png
+  description: In this paper, we propose an unsupervised learning method that identifies and interprets metaphors at word-level without any preprocessing, outperforming strong baselines in the metaphor identification task. Our model extends to interpret the identified metaphors, paraphrasing them into their literal counterparts, so that they can be better translated by machines. We evaluated this with two popular translation systems for English to Chinese, showing that our model improved the systems significantly.
+  authors: Mao R., Lin C. and Guerin F.
+  link:
+  url: https://www.aclweb.org/anthology/P18-1113.pdf
+  display: ACL 2018
   highlight: 1
   news2:
