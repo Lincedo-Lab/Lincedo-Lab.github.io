@@ -1,12 +1,3 @@
-- title: "Dialogue State Tracking with Pretrained Encoder for Multi-domain Trask-oriented Dialogue Systems"
-  image: 
-  description: 
-  authors: Wang D., Lin C., Zhong L. and Wong KF.
-  link:
-  url: https://arxiv.org/pdf/2004.10663.pdf
-  display: arXiv 2020
-  highlight: 0
-  news2:
 
 - title: "Latent Space Factorisation and Manipulation via Matrix Subspace Projection"
   image: xiao_icml_2020.jpeg
@@ -36,6 +27,16 @@
   url: https://www.aclweb.org/anthology/2020.coling-main.216.pdf
   display: COLING 2020
   highlight: 1
+  news2:
+
+- title: "Dialogue State Tracking with Pretrained Encoder for Multi-domain Trask-oriented Dialogue Systems"
+  image: 
+  description: 
+  authors: Wang D., Lin C., Zhong L. and Wong KF.
+  link:
+  url: https://arxiv.org/pdf/2004.10663.pdf
+  display: arXiv 2020
+  highlight: 0
   news2:
 
 - title: "Revisiting the linearity in cross-lingual embedding mappings: from a perspective of word analogies"
