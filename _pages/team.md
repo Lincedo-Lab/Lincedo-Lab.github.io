@@ -135,7 +135,7 @@ permalink: /team/
 
 <h4>Visiting Students and Interns</h4>
 {% for member in site.data.students %}
-{{ member.name }}
+<i>{{ member.name }}</i>
 {% endfor %}
 
 
