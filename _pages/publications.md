@@ -31,7 +31,7 @@ permalink: /publications/
   <p><a href="{{ publi.url }}">{{ publi.display }}</a></p>
   <p>{{ publi.description }}</p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
-  <p> {{ publi.news2 }}</p>
+  <p> <b><font color="#FF0000">{{ publi.news2 }}</font></b></p>
  </div>
 </div>
 
