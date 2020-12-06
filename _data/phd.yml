@@ -14,18 +14,29 @@
   education1: BEng, Beihang University, China
   website: https://lincedo-lab.github.io/team/
 
-- name: Shun Wang
-  photo: shun.png
+- name: Jawwad Baig
+  photo: jawwad.jpeg
   info: PhD Candidate
-  email: w2310751769 the_usual_sign gmail.com
-  number_educ: 2
-  education1: MSc, University of Aberdeen, UK
-  education2: BSc, Xiamen University, China
+  email: 
+  number_educ: 3
+  education1: 
+  education2: 
+  education3: 
   website: https://lincedo-lab.github.io/team/
+
+- name: Tom Green
+  photo: tom.jpeg
+  info: PhD Candidate
+  email: 
+  number_educ: 3
+  education1: 
+  education2: 
+  education3: 
+  website: https://www.linkedin.com/in/thomasgreen647/
 
 - name: Guanyi Chen
   photo: guanyi.jpeg
-  info: PhD Candidate at Utrecht University
+  info: PhD Candidate
   email: g.chen the_usual_sign uu.nl
   number_educ: 3
   education1: Msc, University of Edinburgh, UK
@@ -33,12 +44,12 @@
   education3: BBA, Beijing University of Posts and Telecommunication, China
   website: https://a-quei.github.io/
 
-- name: Jawwad Baig
-  photo: jawwad.jpeg
-  info: PhD Candidate at Aberdeen University
-  email: 
-  number_educ: 3
-  education1: 
-  education2: 
-  education3: 
+
+- name: Shun Wang
+  photo: shun.png
+  info: PhD Candidate
+  email: w2310751769 the_usual_sign gmail.com
+  number_educ: 2
+  education1: MSc, University of Aberdeen, UK
+  education2: BSc, Xiamen University, China
   website: https://lincedo-lab.github.io/team/
