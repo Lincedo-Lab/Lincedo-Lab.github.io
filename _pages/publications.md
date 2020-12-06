@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Group highlights
 
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.nl/citations?user=Tp1RdIQAAAAJ&hl=en).)
+(For a selected publications see [below](#selected-publications) or go to [Google Scholar](https://scholar.google.nl/citations?user=Tp1RdIQAAAAJ&hl=en).)
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -52,7 +52,7 @@ permalink: /publications/
 <p> &nbsp; </p>
 
 
-## Full List
+## Selected Publications
 
 {% for publi in site.data.publist %}
 
