@@ -1,3 +1,13 @@
+- title: "Dialogue State Tracking with Pretrained Encoder for Multi-domain Trask-oriented Dialogue Systems"
+  image: 
+  description: 
+  authors: Wang D., Lin C., Zhong L. and Wong KF.
+  link:
+  url: https://arxiv.org/pdf/2004.10663.pdf
+  display: arXiv 2020
+  highlight: 0
+  news2:
+
 - title: "Latent Space Factorisation and Manipulation via Matrix Subspace Projection"
   image: xiao_icml_2020.jpeg
   description: We tackle the problem disentangling the latent space of an autoencoder in order to separate labelled attribute information from other characteristic information. This then allows us to change selected attributes while preserving other information. Our method, matrix subspace projection, is much simpler than previous approaches to latent space factorisation, for example not requiring multiple discriminators or a careful weighting among their loss functions. 
@@ -69,16 +79,6 @@
   news2: (Best Paper Award Runner-up)
 
 
-- title: "QTUNA: A Corpus for Understanding How Speakers Use Quantification"
-  image: 
-  description: 
-  authors: Chen G., van Deemter K., Pagliaro S., Smalbil L. and Lin C.
-  link:
-  url: https://www.aclweb.org/anthology/W19-8616.pdf
-  display: INLG 2019
-  highlight: 0
-  news2:
-
 - title: "Generating Quantified Descriptions of Abstract Visual Scenes"
   image: 
   description: 
@@ -99,15 +99,6 @@
   highlight: 1
   news2:
 
-- title: "Statistical NLG for Generating the Content and Form of Referring Expressions"
-  image: 
-  description: 
-  authors: Li X., van Deemter K. and Lin C.
-  link:
-  url: https://www.aclweb.org/anthology/W18-6561.pdf
-  display: INLG 2018
-  highlight: 0
-  news2:
 
 - title: "SimpleNLG-ZH: a Linguistic Realisation Engine for Mandarin"
   image: 
@@ -128,4 +119,124 @@
   display: INLG 2018
   highlight: 0
   news2:
+
+- title: "Incorporating Constraints into Matrix Factorization for Clothes Package Recommendation"
+  image: 
+  description: 
+  authors: Wibowo A., Siddharthan A., Masthoff J. and Lin C.
+  link:
+  url: http://oro.open.ac.uk/54928/1/incorporating-constraints-matrix.pdf
+  display: UMAP 2018
+  highlight: 0
+  news2:
     
+
+- title: "Automatically Labelling Sentiment-bearing Topics with Descriptive Sentence Labels"
+  image: 
+  description: 
+  authors: Barawi M., Lin C., and Siddharthan A.
+  link:
+  url: https://link.springer.com/chapter/10.1007/978-3-319-59569-6_38
+  display: NLDB 2017
+  highlight: 0
+  news2: (Best Paper Award)
+
+- title: "Extracting and understanding contrastive opinion through topic relevant sentences"
+  image: 
+  description: 
+  authors: Ibeke E., Lin C., Wyner A. and Barawi M.
+  link:
+  url: https://www.aclweb.org/anthology/I17-2067.pdf
+  display: IJCNLP 2017
+  highlight: 0
+  news2: 
+
+- title: "Sherlock: a Semi-Automatic Framework for Quiz Generation Using a Hybrid Semantic Similarity Measure"
+  image: 
+  description: 
+  authors: Lin C., Liu D., Pang W. and Wang Z.
+  link:
+  url: https://link.springer.com/article/10.1007/s12559-015-9347-7
+  display: Cognitive Computation, Springer, 2015
+  highlight: 0
+  news2: 
+
+- title: "Sentiment-Topic Modelling in Text Mining"
+  image: 
+  description: 
+  authors: Lin C., Ibeke E., Wyner A. and Guerin F.
+  link:
+  url: https://onlinelibrary.wiley.com/doi/abs/10.1002/widm.1161
+  display: Data Mining and Knowledge Discovery, 2015
+  highlight: 0
+  news2: 
+
+- title: "Hete-CF: Social-Based Collaborative Filtering Recommendation Using Heterogeneous Relations"
+  image: 
+  description: 
+  authors: Luo C., Pang W., Wang Z. and Lin C.
+  link:
+  url: https://ieeexplore.ieee.org/document/7023423
+  display: ICDM 2014
+  highlight: 0
+  news2: 
+
+- title: "HetPathMine: A Novel Transductive Classification Algorithm on Heterogeneous Information Networks"
+  image: 
+  description: 
+  authors: Luo C., Guan R., Wang Z. and Lin C.
+  link:
+  url: https://link.springer.com/chapter/10.1007/978-3-319-06028-6_18
+  display: ECIR 2014
+  highlight: 0
+  news2: 
+
+- title: "Dynamic Joint Sentiment-Topic Model"
+  image: 
+  description: 
+  authors: He Y., Lin C., Gao W. and Wong K.
+  link:
+  url: https://dl.acm.org/doi/10.1145/2542182.2542188
+  display: TIST 2013
+  highlight: 0
+  news2: 
+
+- title: "Feature LDA: a Supervised Topic Model for Automatic Detection of Web API Documentations from the Web"
+  image: 
+  description: 
+  authors: Lin C., He Y., Pedrinaci C. and Domingue J.
+  link:
+  url: https://link.springer.com/chapter/10.1007/978-3-642-35176-1_21
+  display: ISWC 2012
+  highlight: 0
+  news2: 
+
+- title: "Automatically Extracting Polarity-Bearing Topics for Cross-Domain Sentiment Classification"
+  image: 
+  description: 
+  authors: He Y., Lin C. and Alani H.
+  link:
+  url: https://www.aclweb.org/anthology/P11-1013.pdf
+  display: ACL 2011
+  highlight: 0
+  news2: 
+
+- title: "A Comparative Study of Bayesian Models for Unsupervised Sentiment Detection"
+  image: 
+  description: 
+  authors: Lin C., He Y. and Everson R.
+  link:
+  url: https://www.aclweb.org/anthology/W10-2918.pdf
+  display: CoNLL 2010
+  highlight: 0
+  news2: 
+
+- title: "Joint Sentiment/Topic Model for Sentiment Analysis"
+  image: 
+  description: 
+  authors: Lin C. and He Y.
+  link:
+  url: https://dl.acm.org/doi/10.1145/1645953.1646003
+  display: CIKM 2009
+  highlight: 0
+  news2: 
