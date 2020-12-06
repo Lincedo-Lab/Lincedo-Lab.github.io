@@ -77,7 +77,7 @@ permalink: /team/
 
 
 
-## Master and Bachelor Students
+## Visiting Students and Interns
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -132,6 +132,8 @@ permalink: /team/
 
 
 ## Alumni
+
+###
 
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
