@@ -1,7 +1,7 @@
 ---
-title: "Lincedo Lab - Team"
+title: "Lincedo Lab - People"
 layout: gridlay
-excerpt: "Lincedo Lab: Team members"
+excerpt: "Lincedo Lab: People"
 sitemap: false
 permalink: /team/
 ---
