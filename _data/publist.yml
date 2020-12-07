@@ -28,6 +28,16 @@
   display: COLING 2020
   highlight: 1
   news2:
+  
+- title: "Listener’s Social Identity Matters in Personalised Response Generation"
+  image: guanyi_inlg_2020.png
+  description: In the present paper, we use gender as a typical example of a social variable to investigate how the listener’s identity influences the language used in Chinese dialogues on social media. Also, we build personalised generators. The experiment results demonstrate that the listener’s identity indeed matters in the language use of responses and that the response generator can capture such differences in language use.
+  authors: Chen G., Zheng Y. and Du Y.
+  link:
+  url: https://www.aclweb.org/anthology/2020.inlg-1.26.pdf
+  display: INLG 2020
+  highlight: 1
+  news2:
 
 - title: "Dialogue State Tracking with Pretrained Encoder for Multi-domain Trask-oriented Dialogue Systems"
   image: 
