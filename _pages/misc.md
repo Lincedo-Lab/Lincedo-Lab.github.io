@@ -10,5 +10,5 @@ permalink: /misc/
 
 ## Gallery
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/xmas-lunch.jpeg" alt="Xmas Lunch" width="50%" height="50%"/><br />
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/The-Silver-Darling-Aberdeen-20180530.JPG" alt="The Silver Darling at Aberdeen" width="50%" height="50%"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/xmas-lunch.jpeg" alt="Xmas Lunch" width="50%" height="50%" title="Xmas Lunch"/><br />
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/The-Silver-Darling-Aberdeen-20180530.JPG" alt="The Silver Darling at Aberdeen" width="50%" height="50%" title="The Silver Darling at Aberdeen"/>
