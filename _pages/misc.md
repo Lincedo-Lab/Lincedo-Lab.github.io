@@ -6,9 +6,8 @@ sitemap: false
 permalink: /misc/
 ---
 
-# Pictures
 
-## Gallery
+# Gallery
 
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures %}
