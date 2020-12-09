@@ -8,8 +8,6 @@
   image: Sheffield-Xmas.jpg
 - title: pic1_description
   image: 2017-09-02 07.49.09 HDR.jpg
-- title: pic1_description
-  image: 2020-10-10_17.08.36.jpg
 - title: pic_description
   image: 151607377640_.pic.jpg
 - title: pic1_description
@@ -28,8 +26,6 @@
   image: aberdeen.jpeg
 - title: pic_description
   image: away day.jpg
-- title: pic1_description
-  image: Home-Office-London-20180920.JPG
 - title: pic1_description
   image: Sheffield-20200712.JPG
 - title: pic1_description
@@ -50,15 +46,19 @@
   image: Aberdeen-sunrise-1.jpg
 - title: pic1_description
   image: Aberdeen-sunset.JPG
-- title: pic1_description
-  image: Aberdeen-University.JPG
 - title: pic_description
   image: Home-office.JPG
 - title: pic1_description
   image: INLG2019.jpeg
 - title: pic1_description
-  image: Sheffield-rainbow.jpg
-- title: pic1_description
   image: Tokyo-Japan-20191031.JPG
 - title: pic_description
   image: Tokyo-Lin.jpg
+- title: pic1_description
+  image: 2020-10-10_17.08.36.jpg
+- title: pic1_description
+  image: Home-Office-London-20180920.JPG
+- title: pic1_description
+  image: Aberdeen-University.JPG
+- title: pic1_description
+  image: Sheffield-rainbow.jpg
