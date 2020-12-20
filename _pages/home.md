@@ -63,7 +63,7 @@ permalink: /
 
 ### Selected Awards
 * Dr. Chenghua Lin received the prestigious **[CIKM 2020 Test of Time Award](http://cikmconference.org/cikmToTA.html)** for the work on “[Joint sentiment/topic model for sentiment analysis](https://dl.acm.org/doi/10.1145/1645953.1646003)“
-* **International Division Champion**, **Best Demo Award** and **Outstanding Opensource Award** of [2020 China Collegiate Artificial Intelligence Innovation Contest](http://aicontest.baidu.com/) (Team members: Xutan Peng, Guanyi Chen, Jinghui Si; Supervisor: Chenghua Lin).
+* **International Division Champion**, **Best Demo Award** and **Outstanding Opensource Award** of [2020 China Collegiate Artificial Intelligence Innovation Contest](http://aicontest.baidu.com/) (Team members: Xutan Peng, Guanyi Chen, Jinghui Si; Supervisor: Chenghua Lin) (A [feature report](http://www.myzaker.com/article/5fddb9648e9f09766a590f76) on Xutan).
 * Dr. Chenghua Lin was awarded the [SICSA](https://www.sicsa.ac.uk/) **supervisor of the Year** 2019 Award Honourable Mention. He was one of the five recipients for the whole of Scotland.
 * **Best Paper Award Runner-Up** in the 12th International Conference on Natural Language Generation (INLG), Tokyo, 2019. (Awarded to: Ruizhe Li, Xiao Li, Chenghua Lin, Matthew Collinson, and Rui Mao)
 * **Best Paper Award** in the 22nd International Conference on Natural Language Information Systems (NLDB; 17% acceptance rate for full paper), sponsored by Springer, 2017. (Awarded to: Mohamad Hardyman Barawi, Chenghua Lin and Advaith Siddharthan)
