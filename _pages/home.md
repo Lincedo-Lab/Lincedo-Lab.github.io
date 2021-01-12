@@ -34,6 +34,9 @@ permalink: /
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/ruizhe_coling_2020.jpg" alt="Slide 3" />
         </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/xutan_eacl_2021.jpg" alt="Slide 4" />
+        </div>
 <!--        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/xiao_icml_2020.jpeg" alt="Slide 3" />
         </div>
