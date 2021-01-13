@@ -1,7 +1,7 @@
 - title: "Summarising Historical Text in Modern Languages"
   image: xutan_eacl_2021.jpg
   description: We propose a hitherto unexplored and challenging task of historical text summarisation. To kickstart research in this field, we construct a high-quality summarisation corpus for historical German and Chinese, with modern German and Chinese summaries by experts. We also propose a model for historical text summarisation that does not require parallel supervision and provides a validated high-performing baseline for future studies.
-  authors: Peng X., Zheng Y., Lin C., Li R., and Siddharthan A.
+  authors: Peng X., Zheng Y., Lin C., and Siddharthan A.
   link: 
   url: https://github.com/Pzoom522/HistSumm
   display: EACL 2021
