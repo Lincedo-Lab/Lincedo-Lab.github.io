@@ -1,3 +1,12 @@
+- title: "Summarising Historical Text in Modern Languages"
+  image: xutan_eacl_2021.jpg
+  description: We propose a hitherto unexplored and challenging task of historical text summarisation. To kickstart research in this field, we construct a high-quality summarisation corpus for historical German and Chinese, with modern German and Chinese summaries by experts. We also propose a model for historical text summarisation that does not require parallel supervision and provides a validated high-performing baseline for future studies.
+  authors: Peng X., Zheng Y., Lin C., Li R., and Siddharthan A.
+  link: 
+  url: https://github.com/Pzoom522/HistSumm
+  display: EACL 2021
+  highlight: 1
+  news2:
 
 - title: "Latent Space Factorisation and Manipulation via Matrix Subspace Projection"
   image: xiao_icml_2020.jpeg
@@ -19,16 +28,6 @@
   highlight: 1
   news2:
 
-- title: "Summarising Historical Text in Modern Languages"
-  image: xutan_eacl_2021.jpg
-  description: we propose a hitherto unexplored and challenging task of historical text summarisation. To kickstart research in this field, we construct a high-quality summarisation corpus for historical German and Chinese, with modern German and Chinese summaries by experts. We also propose a model for historical text summarisation that does not require parallel supervision and provides a validated high-performing baseline for future studies.
-  authors: Peng X., Zheng Y., Lin C., Li R., and Siddharthan A.
-  link: 
-  url: https://github.com/Pzoom522/HistSumm
-  display: EACL 2021
-  highlight: 1
-  news2:
-  
 - title: "Improving Variational Autoencoder for Text Modelling with Timestep-Wise Regularisation"
   image: ruizhe_coling_2020.jpg
   description: In this paper, we propose a simple, generic architecture called Timestep-Wise Regularisation VAE (TWR-VAE), which can effectively avoid posterior collapse and can be applied to any RNN-based VAE models. The effectiveness and versatility of our model are demonstrated in different tasks, including language modelling and dialogue response generation.
