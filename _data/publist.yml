@@ -3,7 +3,7 @@
   description: We propose a hitherto unexplored and challenging task of historical text summarisation. To kickstart research in this field, we construct a high-quality summarisation corpus for historical German and Chinese, with modern German and Chinese summaries by experts. We also propose a model for historical text summarisation that does not require parallel supervision and provides a validated high-performing baseline for future studies.
   authors: Peng X., Zheng Y., Lin C., and Siddharthan A.
   link: 
-  url: https://github.com/Pzoom522/HistSumm
+  url: https://arxiv.org/pdf/2101.10759.pdf
   display: EACL 2021
   highlight: 1
   news2:
