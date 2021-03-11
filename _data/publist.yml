@@ -1,19 +1,19 @@
-- title: "Highly Efficient Knowledge Graph Embedding Learning via Closed-Form Orthogonal Procrustes Analysis"
-  image: xutan_naacl_2021_kge.jpg
-  description: We propose a simple yet effective KGE framework which can reduce the training time and carbon footprints by orders of magnitudes compared with state-of-the-art approaches, while retaining competitive performance. We highlight three technical innovations, namely full batch learning via relational matrices, closed-form Orthogonal Procrustes Analysis for KGEs, and non-negative-sampling training. In addition, as the first KGE method whose entity embeddings also store full relation information, our trained models encode rich semantics and are highly interpretable.
-  authors: Peng X., Chen G., Lin C., and Stevenson M.
-  link: 
-  url: https://github.com/Pzoom522/ProcrustEs-KGE
-  display: NAACL 2021
-  highlight: 1
-  news2:
-  
 - title: "Cross-Lingual Word Embedding Refinement via Manhattan Norm Optimisation"
   image: xutan_naacl_2021_l1.jpg
   description: Based on the robust L1 norm goodness-of-fit criterion, we propose a simple post-processing step to improve CLWEs. It is fully agnostic to the training process of the original CLWEs and can therefore be applied widely. Extensive experimental results based on bilingual lexicon induction and cross-lingual transfer for natural language inference tasks show that our method substantially outperforms state-of-the-art baselines.
   authors: Peng X., Lin C., and Stevenson M.
   link: 
   url: https://github.com/Pzoom522/L1-refinement
+  display: NAACL 2021
+  highlight: 1
+  news2:
+
+- title: "Highly Efficient Knowledge Graph Embedding Learning via Closed-Form Orthogonal Procrustes Analysis"
+  image: xutan_naacl_2021_kge.jpg
+  description: We propose a simple yet effective KGE framework which can reduce the training time and carbon footprints by orders of magnitudes compared with state-of-the-art approaches, while retaining competitive performance. We highlight three technical innovations, namely full batch learning via relational matrices, closed-form Orthogonal Procrustes Analysis for KGEs, and non-negative-sampling training. In addition, as the first KGE method whose entity embeddings also store full relation information, our trained models encode rich semantics and are highly interpretable.
+  authors: Peng X., Chen G., Lin C., and Stevenson M.
+  link: 
+  url: https://github.com/Pzoom522/ProcrustEs-KGE
   display: NAACL 2021
   highlight: 1
   news2:
