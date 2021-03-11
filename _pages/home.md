@@ -43,6 +43,9 @@ permalink: /
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/xutan_naacl_2021_kge.jpg" alt="Slide 6" />
         </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/chenghua_naacl_2021_dst.jpg" alt="Slide 7" />
+        </div>
 <!--        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/xiao_icml_2020.jpeg" alt="Slide 3" />
         </div>

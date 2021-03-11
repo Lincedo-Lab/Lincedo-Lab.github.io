@@ -18,6 +18,16 @@
   highlight: 1
   news2:
 
+- title: "Fast and Scalable Dialogue State Tracking with Explicit Modular Decomposition"
+  image: chenghua_naacl_2021_dst.jpg
+  description: We present a fast and scalable architecture, in which we incorporate both classification based and extraction-based approaches and then elaborately design four modules to jointly extract dialogue states. Experimental results on MultiWoz2.0 validate the superiority of our proposed model in terms of complexity and scalability when compared with state-of-the art methods, especially in multi-domain dialogues entangled with many turn utterances.
+  authors: Wang D., Lin C., Zhong L., and Wong KF.
+  link: 
+  url: https://arxiv.org/pdf/2004.10663.pdf
+  display: NAACL 2021
+  highlight: 1
+  news2:
+
 - title: "Summarising Historical Text in Modern Languages"
   image: xutan_eacl_2021.jpg
   description: We propose a hitherto unexplored and challenging task of historical text summarisation. To kickstart research in this field, we construct a high-quality summarisation corpus for historical German and Chinese, with modern German and Chinese summaries by experts. We also propose a model for historical text summarisation that does not require parallel supervision and provides a validated high-performing baseline for future studies.
