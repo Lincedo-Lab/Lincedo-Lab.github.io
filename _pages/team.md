@@ -97,13 +97,13 @@ permalink: /team/
 {% endfor %}
 
 
-### Former Master and undergraduate students
+### Former Master and Undergraduate Students
 {% for member in site.data.alumni_bsc_msc %}
 <i>{{ member.name }}</i>
 {% endfor %}
 
 
-### Former Visiting students and Interns 
+### Former Visiting Students and Interns 
 {% for member in site.data.alumni_visitors %}
 <i>{{ member.name }}</i>
 {% endfor %}
