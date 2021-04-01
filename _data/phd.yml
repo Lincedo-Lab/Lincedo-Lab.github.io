@@ -6,13 +6,15 @@
   education1: BEng, Shanghai University, China
   website: https://ruizheliuoa.github.io/
 
-- name: Xutan Peng
-  photo: xutan.gif
+- name: Guanyi Chen
+  photo: guanyi.jpeg
   info: PhD Candidate
-  email: x.peng the_usual_sign shef.ac.uk
-  number_educ: 1
-  education1: BEng, Beihang University, China
-  website: https://xutan.me/
+  email: g.chen the_usual_sign uu.nl
+  number_educ: 3
+  education1: Msc, University of Edinburgh, UK
+  education2: BEng, Queen Mary University of London, UK
+  education3: BBA, Beijing University of Posts and Telecommunication, China
+  website: https://a-quei.github.io/
 
 - name: Jawwad Baig
   photo: jawwad.jpeg
@@ -34,16 +36,13 @@
   education3: 
   website: https://www.linkedin.com/in/thomasgreen647/
 
-- name: Guanyi Chen
-  photo: guanyi.jpeg
+- name: Xutan Peng
+  photo: xutan.gif
   info: PhD Candidate
-  email: g.chen the_usual_sign uu.nl
-  number_educ: 3
-  education1: Msc, University of Edinburgh, UK
-  education2: BEng, Queen Mary University of London, UK
-  education3: BBA, Beijing University of Posts and Telecommunication, China
-  website: https://a-quei.github.io/
-
+  email: x.peng the_usual_sign shef.ac.uk
+  number_educ: 1
+  education1: BEng, Beihang University, China
+  website: https://xutan.me/
 
 - name: Shun Wang
   photo: shun.png
