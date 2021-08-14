@@ -1,4 +1,14 @@
-- title: "Cross-Lingual Word Embedding Refinement by ℓ1 Norm Optimisation"
+- title: "Fast and Scalable Dialogue State Tracking with Explicit Modular Decomposition"
+  image: chenghua_naacl_2021_dst.jpg
+  description: We present a fast and scalable architecture, in which we incorporate both classification based and extraction-based approaches and then elaborately design four modules to jointly extract dialogue states. Experimental results on MultiWoz2.0 validate the superiority of our proposed model in terms of complexity and scalability when compared with state-of-the art methods, especially in multi-domain dialogues entangled with many turn utterances.
+  authors: Wang D., Lin C., Zhong L., and Wong KF.
+  link: 
+  url: https://arxiv.org/pdf/2004.10663.pdf
+  display: NAACL 2021
+  highlight: 1
+  news2:
+  
+  - title: "Cross-Lingual Word Embedding Refinement by ℓ1 Norm Optimisation"
   image: xutan_naacl_2021_l1.jpg
   description: Based on the robust ℓ1 norm goodness-of-fit criterion, we propose a simple post-processing step to improve CLWEs. It is fully agnostic to the training process of the original CLWEs and can therefore be applied widely. Extensive experimental results based on bilingual lexicon induction and cross-lingual transfer for natural language inference tasks show that our method substantially outperforms state-of-the-art baselines.
   authors: Peng X., Lin C., and Stevenson M.
@@ -14,16 +24,6 @@
   authors: Peng X., Chen G., Lin C., and Stevenson M.
   link: 
   url: https://arxiv.org/pdf/2104.04676.pdf
-  display: NAACL 2021
-  highlight: 1
-  news2:
-
-- title: "Fast and Scalable Dialogue State Tracking with Explicit Modular Decomposition"
-  image: chenghua_naacl_2021_dst.jpg
-  description: We present a fast and scalable architecture, in which we incorporate both classification based and extraction-based approaches and then elaborately design four modules to jointly extract dialogue states. Experimental results on MultiWoz2.0 validate the superiority of our proposed model in terms of complexity and scalability when compared with state-of-the art methods, especially in multi-domain dialogues entangled with many turn utterances.
-  authors: Wang D., Lin C., Zhong L., and Wong KF.
-  link: 
-  url: https://arxiv.org/pdf/2004.10663.pdf
   display: NAACL 2021
   highlight: 1
   news2:
