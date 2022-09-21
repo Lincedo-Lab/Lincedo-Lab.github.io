@@ -16,6 +16,23 @@
 #  education3: BBA, Beijing University of Posts and Telecommunication, China
 #  website: https://a-quei.github.io/
 
+- name: Tomas Goldsack
+  photo: Tomas.jpg
+  info: PhD Student
+  email: tgoldsack1 the_usual_sign sheffield.ac.uk
+  number_educ: 1
+  education1: BSc, University of Sheffield, UK
+  website: https://www.linkedin.com/in/tomas-goldsack-729190152/
+
+- name: Shun Wang
+  photo: shun.png
+  info: PhD Student
+  email: w2310751769 the_usual_sign gmail.com
+  number_educ: 2
+  education1: MSc, University of Aberdeen, UK
+  education2: BSc, Xiamen University, China
+  website: https://lincedo-lab.github.io/team/
+
 - name: Jawwad Baig
   photo: jawwad.jpeg
   info: PhD Candidate
@@ -55,31 +72,6 @@
   education2: 
   education3: 
   website: https://www.linkedin.com/in/thomasgreen647/
-
-# - name: Xutan Peng
-#   photo: xutan.gif
-#   info: PhD Candidate
-#   email: x.peng the_usual_sign shef.ac.uk
-#   number_educ: 1
-#   education1: BEng, Beihang University, China
-#   website: https://xutan.me/
-
-- name: Shun Wang
-  photo: shun.png
-  info: PhD Student
-  email: w2310751769 the_usual_sign gmail.com
-  number_educ: 2
-  education1: MSc, University of Aberdeen, UK
-  education2: BSc, Xiamen University, China
-  website: https://lincedo-lab.github.io/team/
-
-- name: Tomas Goldsack
-  photo: Tomas.jpg
-  info: PhD Student
-  email: tgoldsack1 the_usual_sign sheffield.ac.uk
-  number_educ: 1
-  education1: BSc, University of Sheffield, UK
-  website: https://www.linkedin.com/in/tomas-goldsack-729190152/
 
 - name: Yuchen Li
   photo: guanyi.jpeg
