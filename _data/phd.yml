@@ -27,7 +27,7 @@
   website: https://lincedo-lab.github.io/team/
   
 - name: Yizhi Li
-  photo: 
+  photo: guanyi.jpeg
   info: PhD Candidate
   email: 
   number_educ: 3
@@ -37,17 +37,7 @@
   website: https://lincedo-lab.github.io/team/
   
 - name: Tyler Loakman 
-  photo: 
-  info: PhD Candidate
-  email: 
-  number_educ: 3
-  education1: 
-  education2: 
-  education3: 
-  website: https://lincedo-lab.github.io/team/
-
-- name: Bohao Yang
-  photo: 
+  photo: guanyi.jpeg
   info: PhD Candidate
   email: 
   number_educ: 3
@@ -90,3 +80,33 @@
   number_educ: 1
   education1: BSc, University of Sheffield, UK
   website: https://www.linkedin.com/in/tomas-goldsack-729190152/
+
+- name: Yuchen Li
+  photo: guanyi.jpeg
+  info: PhD Candidate
+  email: 
+  number_educ: 3
+  education1: 
+  education2: 
+  education3: 
+  website: https://lincedo-lab.github.io/team/
+  
+- name: Chen Tang
+  photo: guanyi.jpeg
+  info: PhD Candidate
+  email: 
+  number_educ: 3
+  education1: 
+  education2: 
+  education3: 
+  website: https://lincedo-lab.github.io/team/
+  
+- name: Bohao Yang
+  photo: guanyi.jpeg
+  info: PhD Candidate
+  email: 
+  number_educ: 3
+  education1: 
+  education2: 
+  education3: 
+  website: https://lincedo-lab.github.io/team/
