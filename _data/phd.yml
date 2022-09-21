@@ -1,10 +1,10 @@
-- name: Ruizhe Li
-  photo: ruizhe.png
-  info: PhD Candidate
-  email: r.li the_usual_sign sheffield.ac.uk
-  number_educ: 1
-  education1: BEng, Shanghai University, China
-  website: https://ruizheliuoa.github.io/
+#- name: Ruizhe Li
+#  photo: ruizhe.png
+#  info: PhD Candidate
+#  email: r.li the_usual_sign sheffield.ac.uk
+#  number_educ: 1
+#  education1: BEng, Shanghai University, China
+#  website: https://ruizheliuoa.github.io/
 
 - name: Guanyi Chen
   photo: guanyi.jpeg
@@ -18,6 +18,36 @@
 
 - name: Jawwad Baig
   photo: jawwad.jpeg
+  info: PhD Candidate
+  email: 
+  number_educ: 3
+  education1: 
+  education2: 
+  education3: 
+  website: https://lincedo-lab.github.io/team/
+  
+- name: Yizhi Li
+  photo: 
+  info: PhD Candidate
+  email: 
+  number_educ: 3
+  education1: 
+  education2: 
+  education3: 
+  website: https://lincedo-lab.github.io/team/
+  
+- name: Tyler Loakman 
+  photo: 
+  info: PhD Candidate
+  email: 
+  number_educ: 3
+  education1: 
+  education2: 
+  education3: 
+  website: https://lincedo-lab.github.io/team/
+
+- name: Bohao Yang
+  photo: 
   info: PhD Candidate
   email: 
   number_educ: 3
